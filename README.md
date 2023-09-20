@@ -4,7 +4,9 @@ Desenvolvimento de um simples processador RISC-V
 ![VIZ](RISC-V_CPU_Block_Diagram.png)
 
 ### Instruções implementadas
+* x1 e x2: registradores que serão utilizados.
 * imm: Trata-se de um valor imediato que é passado quando executado.
+* PC: Constador de instruções do processador.
 
 | Inst  | Meaning                                   | Condition Expression             |
 | ----- |:------------------------------------------|:---------------------------------|
