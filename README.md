@@ -2,14 +2,14 @@
 Desenvolvimento de um simples processador RISC-V
 
 ### Instruções implementadas
- * ADD |  Sum | 
- * ADDI | Immediate sum |
- * BEQ | Branch if equal | x1 == x2
- * BNE | Branch if not equal | x1 != x2
- * BLT | Branch if less than | (x1 < x2) ^ (x1[31] != x2[31])
- * BGE | Branch if greater than or equal |  (x1 >= x2) ^ (x1[31] != x2[31])
- * BLTU | Branch if less than, unsigned | x1 < x2
- * BGEU | Branch if greater than or equal, unsigned | x1 >= x2
+ * |ADD |  Sum |  |
+ * |ADDI | Immediate sum | |
+ * |BEQ | Branch if equal | x1 == x2 |
+ * |BNE | Branch if not equal | x1 != x2 |
+ * |BLT | Branch if less than | (x1 < x2) ^ (x1[31] != x2[31]) |
+ * |BGE | Branch if greater than or equal |  (x1 >= x2) ^ (x1[31] != x2[31]) |
+ * |BLTU | Branch if less than, unsigned | x1 < x2 |
+ * |BGEU | Branch if greater than or equal, unsigned | x1 >= x2 |
 
 ### Não implementado
   *  Controlador E/S
