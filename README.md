@@ -28,7 +28,7 @@ Desenvolvimento de um simples processador RISC-V
 |SW|		|
 |SLTI|		|
 |SLTIU|		|
-|XORI|		| x1 | imm (valor imediato)|
+|XORI|		| x1 \| imm (valor imediato)|
 |ANDI|		| x1 & imm (valor imediato)|
 |SLLI|		| x1 << imm[5:0]|
 |SRLI|		| x1 >> imm[5:0]|
