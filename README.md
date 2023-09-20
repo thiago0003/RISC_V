@@ -65,3 +65,12 @@ Abaixo estão os comando de testes que são aceitos e executados pela CPU.
 ## Plataforma 
   Makerchip - https://makerchip.com
   Através dessa plataforma será possível desenvolver em T-Verilog, verificar erros que possivelmente serão ocorridos, criar simualções e visualizar graficamente suas ligações e componentes gerados.
+
+### Comando necessários para a execução 
+
+* pip install makerchip-app
+* makerchip risc-v.tvl
+
+Estando dentro da plataforma, basta apertar Ctrl + Enter para executar a compilação.
+Dentro da interface VIZ podemos ver a interação dos comandos sendo executada no processador.
+
