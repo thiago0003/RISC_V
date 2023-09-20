@@ -12,6 +12,9 @@ Desenvolvimento de um simples processador RISC-V
 |BGE    | Branch if greater than or equal           |  (x1 >= x2) ^ (x1[31] != x2[31]) |
 |BLTU   | Branch if less than, unsigned             | x1 < x2                          |
 |BGEU   | Branch if greater than or equal, unsigned | x1 >= x2                         |
+|LUI|||
+|AUIPC||
+|JAL||
 
 ### Não implementado
   *  Controlador E/S
