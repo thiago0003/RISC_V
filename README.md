@@ -1,7 +1,7 @@
 # RISC_V
 Desenvolvimento de um simples processador RISC-V
 
-<a href="https://github.com/thiago0003/RISC_V/blob/main/RISC-V_CPU_Block_Diagram.png">Diagrama de Blocos - CPU</a>
+![VIZ](RISC-V_CPU_Block_Diagram.png.png)
 
 ### Instruções implementadas
 | Inst  | Meaning                                   | Condition Expression             |
