@@ -17,27 +17,27 @@ Desenvolvimento de um simples processador RISC-V
 |JAL|||
 |JALR|||
 |LB|||
-|LH|
-|LW|
-|LBU|
-|LHU|
-|SB|
-|SH|
-|SW|
-|SLTI|
-|SLTIU|
-|XORI|
-|ANDI|
-|SLLI|
-|SRLI|
-|SRAI|
-|SUB|
-|SLL|
-|SLT|
-|SLTU|
-|XOR|
-|SRL|
-|SRA|
+|LH||
+|LW||
+|LBU||
+|LHU||
+|SB||
+|SH||
+|SW||
+|SLTI||
+|SLTIU||
+|XORI||
+|ANDI||
+|SLLI||
+|SRLI||
+|SRAI||
+|SUB||
+|SLL||
+|SLT||
+|SLTU||
+|XOR||
+|SRL||
+|SRA| | {32{$x1[31]} CONCAT x1} >> x2[4:0]|
 |OR| | x1 \| x2|
 |AND|| x1 & x2|
 
