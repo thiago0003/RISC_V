@@ -37,7 +37,7 @@ Desenvolvimento de um simples processador RISC-V
 |SLTU||
 |XOR||
 |SRL||
-|SRA| | {32{$x1[31]} CONCAT x1} >> x2[4:0]|
+|SRA[64:0]| | (32 * { x1[31] } CONCAT x1) >> x2[4:0]|
 |OR| | x1 \| x2|
 |AND|| x1 & x2|
 
