@@ -4,6 +4,8 @@ Desenvolvimento de um simples processador RISC-V
 ![VIZ](RISC-V_CPU_Block_Diagram.png)
 
 ### Instruções implementadas
+* imm: Trata-se de um valor imediato que é passado quando executado.
+
 | Inst  | Meaning                                   | Condition Expression             |
 | ----- |:------------------------------------------|:---------------------------------|
 |ADD    | Sum                                       |                                  |
@@ -28,8 +30,8 @@ Desenvolvimento de um simples processador RISC-V
 |SW|		|
 |SLTI|		|
 |SLTIU|		|
-|XORI|		| x1 \| imm (valor imediato)|
-|ANDI|		| x1 & imm (valor imediato)|
+|XORI|		| x1 \| imm |
+|ANDI|		| x1 & imm |
 |SLLI|		| x1 << imm[5:0]|
 |SRLI|		| x1 >> imm[5:0]|
 |SRAI|		|
