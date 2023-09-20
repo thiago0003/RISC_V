@@ -52,9 +52,11 @@ Desenvolvimento de um simples processador RISC-V
 
 ### Resultados finais
 Como podemos ver abaixo, temos todo o circuito do processador criado dentro da plataforma makerchip, e dessa forma podemos ver com detalhes as ligações que são feitas entre cada módulo.
+
 ![VIZ](RISC_V_Processor.png)
 
 Abaixo estão os comando de testes que são aceitos e executados pela CPU.
+
 ![VIZ](RISC_V_Command_Teste.png)
 
 ## Cursos 
