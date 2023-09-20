@@ -75,6 +75,8 @@ Abaixo estão os comando de testes que são aceitos e executados pela CPU.
 * pip install makerchip-app
 * makerchip risc-v.tvl
 
+
 Estando dentro da plataforma, basta apertar Ctrl + Enter para executar a compilação.
+
 Dentro da interface VIZ podemos ver a interação dos comandos sendo executada no processador.
 
