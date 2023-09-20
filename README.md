@@ -31,7 +31,7 @@ Desenvolvimento de um simples processador RISC-V
 |SLLI||
 |SRLI||
 |SRAI||
-|SUB||
+|SUB|| x1 - x2|
 |SLL||
 |SLT||
 |SLTU||
