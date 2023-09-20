@@ -42,7 +42,7 @@ Desenvolvimento de um simples processador RISC-V
 |SRA[64:0]| 	| (32 * { x1[31] } CONCAT x1) >> x2[4:0]|
 |OR| 		| x1 \| x2|
 |AND|		| x1 & x2|
-|ORI|		| x1 | imm|
+|ORI|		| x1 \| imm|
 
 ### Não implementado
   *  Controlador E/S
