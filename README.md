@@ -14,7 +14,32 @@ Desenvolvimento de um simples processador RISC-V
 |BGEU   | Branch if greater than or equal, unsigned | x1 >= x2                         |
 |LUI|||
 |AUIPC||
-|JAL||
+|JAL|||
+|JALR|||
+|LB|||
+|LH|
+|LW|
+|LBU|
+|LHU|
+|SB|
+|SH|
+|SW|
+|SLTI|
+|SLTIU|
+|XORI|
+|ANDI|
+|SLLI|
+|SRLI|
+|SRAI|
+|SUB|
+|SLL|
+|SLT|
+|SLTU|
+|XOR|
+|SRL|
+|SRA|
+|OR|
+|AND|
 
 ### Não implementado
   *  Controlador E/S
