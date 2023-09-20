@@ -38,8 +38,8 @@ Desenvolvimento de um simples processador RISC-V
 |XOR|
 |SRL|
 |SRA|
-|OR|
-|AND|
+|OR| | x1 \| x2|
+|AND|| x1 & x2|
 
 ### Não implementado
   *  Controlador E/S
