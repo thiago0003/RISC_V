@@ -51,8 +51,8 @@ Desenvolvimento de um simples processador RISC-V
   *  Caches
 
 ### Resultados finais
-![VIZ](RISC_V_Processor.png')
-![VIZ](RISC_V_Command_Teste.png')
+![VIZ](RISC_V_Processor.png)
+![VIZ](RISC_V_Command_Teste.png)
 
 ## Cursos 
   Building a RISC-V CPU Core - https://learning.edx.org/
