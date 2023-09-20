@@ -1,7 +1,7 @@
 # RISC_V
 Desenvolvimento de um simples processador RISC-V
 
-![VIZ](RISC-V_CPU_Block_Diagram.png.png)
+![VIZ](RISC-V_CPU_Block_Diagram.png)
 
 ### Instruções implementadas
 | Inst  | Meaning                                   | Condition Expression             |
