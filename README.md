@@ -3,7 +3,7 @@ Desenvolvimento de um simples processador RISC-V
 
 ### Instruções implementadas
 | Inst  | Meaning                                   | Condition Expression             |
-| ----- |:-----------------------------------------:| --------------------------------:|
+| ----- |:------------------------------------------|:---------------------------------|
 |ADD    | Sum                                       |                                  |
 |ADDI   | Immediate sum                             |                                  |
 |BEQ    | Branch if equal                           | x1 == x2                         |
